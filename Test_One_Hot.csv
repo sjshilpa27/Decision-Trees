@@ -1,0 +1,8 @@
+Occupied_High,Occupied_Low,Occupied_Moderate,Price_Cheap,Price_Expensive,Price_Normal,Music_Loud,Music_Quiet,Location_CityCenter,Location_EinKarem,Location_GermanColony,Location_MahaneYehuda,Location_Talpiot,VIP_No,VIP_Yes,FavoriteBeer_No,FavoriteBeer_Yes,Enjoy
+0,0,1,0,0,1,0,1,0,0,0,0,1,1,0,1,0,Yes
+1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,Yes
+0,0,1,0,1,0,0,1,0,0,1,0,0,1,0,1,0,No
+1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1,Yes
+0,1,0,0,1,0,1,0,0,0,0,1,0,1,0,1,0,No
+1,0,0,0,0,1,0,1,0,0,1,0,0,1,0,1,0,No
+0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1,No
